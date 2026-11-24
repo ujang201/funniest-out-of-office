@@ -1,0 +1,1 @@
+Write a Node program that outputs the funniest possible one-line out-of-office auto-reply, at most 140 characters, to entry.txt. The line must sound like a real person wrote it, land a surprise twist, and avoid the tired out-of-office clichés everyone has already seen.
